@@ -1,0 +1,5 @@
+Diameter: 0
+Average path: -nan
+Average farthest path: -nan
+Farthest paths:
+Farthest paths distribution:
